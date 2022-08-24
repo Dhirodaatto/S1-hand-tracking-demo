@@ -7,7 +7,6 @@ Performance: Less than mediocre (Problems with slow targets, requires target to 
 from multiprocessing import Process, Value, Manager
 from multiprocessing.managers import BaseManager
 import numpy as np
-import robomaster
 from robomaster import robot
 from robomaster import blaster
 import keyboard
